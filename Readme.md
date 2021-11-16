@@ -5,7 +5,7 @@
 1. Download MySQL Installer from https://dev.mysql.com/downloads/mysql/ and execute it.
 
 
-<img src="Step1.png" width=50%/>
+<img src="mac.png" width=50%/>
 
 2. Make sure you remember the password you enter here
 
@@ -32,12 +32,14 @@
 
 7. Install and setup dbeaver from https://dbeaver.io/download/
 
-7. go to dbeaver and connect to MySQL 
+<img src="Step1.png" width=50%/>
+
+8. go to dbeaver and connect to MySQL 
 
 
 <img src="step7.png" width=50%/>
 
-8. Enter the name of the database you created and the password 
+9. Enter the name of the database you created and the password 
 
 <img src="step8.png" width=50%/>
 
@@ -49,7 +51,7 @@
 
 1. Download MySQL Installer from https://dev.mysql.com/downloads/mysql/ and execute it.
 
-<img src="Step1.png" width=50%/>
+<img src="wind.png" width=50%/>
 
 2. Make sure you remember the password you enter here
 
@@ -90,12 +92,16 @@ step6-win
 
 - `create database test;`
 
-8. go to dbeaver and connect to MySQL 
+8. Install and setup dbeaver from https://dbeaver.io/download/
+
+<img src="Step1.png" width=50%/>
+
+9. go to dbeaver and connect to MySQL 
 
 
 <img src="step7.png" width=50%/>
 
-9. Enter the name of the database you created and the password 
+10. Enter the name of the database you created and the password 
 
 
 <img src="step8.png" width=50%/>
