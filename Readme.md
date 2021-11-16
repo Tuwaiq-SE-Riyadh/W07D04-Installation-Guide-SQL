@@ -4,7 +4,7 @@
 
 1. Download MySQL Installer from https://dev.mysql.com/downloads/mysql/ and execute it.
 
-![step1](step1.png)
+![step1](Step1.png)
 
 2. Make sure you remember the password you enter here
 
@@ -41,7 +41,7 @@
 
 1. Download MySQL Installer from https://dev.mysql.com/downloads/mysql/ and execute it.
 
-![step1](step1.png)
+![step1](Step1.png)
 
 2. Make sure you remember the password you enter here
 
