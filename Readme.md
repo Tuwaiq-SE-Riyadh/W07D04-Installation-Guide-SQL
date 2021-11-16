@@ -28,8 +28,9 @@
 
 6. Create database called test then exit mysql  
 
-
 <img src="step6.png" width=50%/>
+
+7. Install and setup dbeaver from https://dbeaver.io/download/
 
 7. go to dbeaver and connect to MySQL 
 
