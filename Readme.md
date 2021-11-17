@@ -12,7 +12,7 @@
 
 <img src="step2.png" width=50%/>
 
-3. Go to the terminal and to go to the path where your installer is in it should be `usr/local/mysql/bin`
+3. Go to the terminal and to go to the path where your installer is in it should be `/usr/local/mysql/bin`
 
 
 <img src="step3.png" width=50%/>
