@@ -5,8 +5,6 @@
 1. Download MySQL Installer from https://dev.mysql.com/downloads/mysql/ and execute it.
 
 
-<img src="mac.png" width=50%/>
-
 2. Make sure you remember the password you enter here
 
 
@@ -51,42 +49,18 @@
 
 1. Download MySQL Installer from https://dev.mysql.com/downloads/mysql/ and execute it.
 
-<img src="wind.png" width=50%/>
 
-2. Make sure you remember the password you enter here
-
-
-<img src="step2.png" width=50%/>
-
-3. search for vriable enviroments in windows and open this 
-
-
-<img src="step3-win.png" width=50%/>
-
-4. write path in the variable and the path for the installer in the value the path should be something like this `C:\Program Files\MySQL\MySQL Shell 8.0\bin`
-
-### English: 
-
-
-<img src="step4-win2.png" width=50%/>
-<img src="step5-win.png" width=50%/>
-
-
-### Arabic: 
-<img src="step3-win.png" width=50%/>
-<img src="variable2.png" width=50%/>
-<img src="step4-wind.png" width=50%/>
+2. Make sure you remember the password when executing the installer.
 
 
 5. search for mysqlshell and open it 
 
 
-step6-win
 
 6. Enter the following command to enter mysql 
 
-- `sql\`
-- `connect root@localhost\`
+- `\sql`
+- `\connect root@localhost`
 
 7. when you are in mysql create database by using this command 
 
